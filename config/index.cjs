@@ -60,18 +60,7 @@ const USER_CONFIG = {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oEwa66F7LBGedZBb5IEn-KSWfwSM',
-      useTemplateId: 'xDNRCtWZ_wIus1DCUvP3j3r1hp2KTkmtFUUxo0KZPCg',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '05-01',
-      
-    }
-  ],
-  customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', date: '2023-07-20' },
-        // 结婚纪念日
-        //{ keyword: 'marry_day', date: '2022-09-09' },
-      ],
+     
 
 }
 
