@@ -16,12 +16,12 @@ const USER_CONFIG = {
   APP_SECRET: '23a0981ac3c02a0c5aca76546ab6eb70',
 
   PROVINCE: '山东',
-  CITY: '泰安',
+  CITY: '德州',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '琳琳大宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oEwa66Mb3fmZTQwnHIgVRqtIxdJo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -54,7 +54,7 @@ const USER_CONFIG = {
 
 {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '琳琳大宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oEwa66F7LBGedZBb5IEn-KSWfwSM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
